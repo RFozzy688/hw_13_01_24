@@ -1,0 +1,23 @@
+body{
+  width: 700px;
+  margin: 0 auto;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.content{
+  background: #F6F6F6;
+  padding: 30px;
+}
+span{
+  font-size: 30px;
+  background: #E0E0E0;
+  padding: 10px;
+}
+p{
+  font-size: 20px;
+}
+.red{
+  color: red;
+}
+.black{
+  color: black;
+}
